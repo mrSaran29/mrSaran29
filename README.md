@@ -42,14 +42,9 @@
 |---------|----------|----------|
 | E-commerce  | Frontend interface for an online shopping platform with smooth navigation and product display   | Javscript , React.js  |
 | Construction website | Developed a property listing and constructionmaterials platform. Implemented CRUD operationsusing Express.js and MongoDB   |MERN Stack|
-| Data 4  | Data 5   | Data 6   |
-| Data 4  | Data 5   | Data 6   |
+| Task Manager | Task management web app using MERN stack with features to create, edit, complete, and delete tasks securely.   | MERN Stack   |
+| Weather APP  | Weather application built in JavaScript to provide live weather updates by fetching data from OpenWeather API   | Java Script   |
 
-
----
-
-### GitHub Stats 📊
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 ---
 
